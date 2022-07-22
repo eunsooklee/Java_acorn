@@ -1,0 +1,18 @@
+package test.main;
+// [Java 기본 데이터 type]
+// 2. 논리형 (boolean)
+// -true, false 두가지 값중 하나이다.
+// -true, false를 직접 쓰거나 비교연산 혹은 논리연산의 결과로 얻어낼 수 있다.
+// -참과 거짓을 나타내는 데이터 type
+public class MainClass03 {
+	public static void main(String[] args) {
+		System.out.println();
+		int kor=95;
+		int eng=100;
+		
+		float avg;
+		avg = float(kor+eng)/2;
+		//double ave=(kor+eng)/2.0;
+		System.out.println("국어점수와 영어점수의 평균은"+avg+"입니다.");
+	}
+}

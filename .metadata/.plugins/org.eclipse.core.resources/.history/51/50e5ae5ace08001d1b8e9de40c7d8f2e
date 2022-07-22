@@ -1,0 +1,12 @@
+package test.main;
+
+public class MainClass06 {
+	public static void main(String[] args) { //메소드 안 지역변수 아니면 필드 전역변수x
+		System.out.println("main 메소드가 시작 되었습니다.");
+		
+		int num1;
+		String name1;
+		
+		System.out.println("main 메소드가 종료 됩니다.");
+	}
+}

@@ -1,0 +1,10 @@
+package test.mypac;
+
+public class Calculator {
+
+	//계산하는 기능
+	public void exec() {
+		System.out.println("계산하기");
+	}
+	
+}

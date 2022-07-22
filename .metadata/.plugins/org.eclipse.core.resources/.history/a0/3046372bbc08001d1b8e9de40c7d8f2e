@@ -1,0 +1,15 @@
+package test.main;
+
+public class MainClass02 {
+	public static void main(String[] args) {
+		System.out.println("main 메소드가 시작 되었습니다.");
+		
+		int kor=95.0;
+		int eng=100.0;
+		
+		double avg;
+		avg = (kor+eng)/2;
+		System.out.println("국어점수와 영어점수의 평균은"+avg+"입니다.");
+	
+}
+}

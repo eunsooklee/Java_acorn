@@ -1,0 +1,8 @@
+package pro_pack;
+
+public class Practice_example {
+	public static void main(String[] args) {
+		float flovar1= 3.14f; 
+	}
+
+}
