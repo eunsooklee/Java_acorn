@@ -14,7 +14,7 @@ public class MainClass05 {
 		name="rooroo";
 		//name 변수를 비우기 (null은 참조 데이터 type이 담길 수 있는 빈 공간)
 		name=null;
-		name.
+		
 		int num=10;
 		boolean isRun=true;
 	} //객체는 값의 저장소 + 기능 / 자바에서 . = 기능 ex)name.
