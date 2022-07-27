@@ -14,5 +14,6 @@ public class MainClass04 {
 		MyUtil.send();
 		//static 필드 참조
 		String v=MyUtil.version;
+		System.out.println();
 	}
 }

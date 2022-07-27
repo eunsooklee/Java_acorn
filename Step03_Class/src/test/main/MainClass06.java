@@ -11,5 +11,7 @@ public class MainClass06 {
 		 */
 		PrintStream a=System.out;
 		a.println("hi~");
+		
+		PrintStream b = new PrintStream();
 	}
 }
